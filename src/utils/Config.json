@@ -1,0 +1,30 @@
+{
+    "tittle" :"this is home page" ,
+    "description" : "this is home page description",
+    
+    "theme":{
+        "primarycolor":"#3333ff",
+        "secondarycolor":"#b35900",
+        "accentcolor":"ccf5ff"
+    },
+    "servises" : [
+        {  "id" : 1 ,
+            "tittle":"first tittle",
+            "description":"first description",
+            "price" :87,
+            "img":"imges/mitai.jpeg"
+    },
+        {
+            "id": 2,
+"tittle":"second tittle",
+"description":"second description",
+"price":65
+
+        },
+        {"id": 3,
+            "tittle":"third tittle",
+            "description":"third description",
+            "price":223
+        }
+    ]
+}

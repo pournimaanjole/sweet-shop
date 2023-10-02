@@ -1,0 +1,11 @@
+.flex-wrap-wrap{
+    flex-wrap: wrap;
+}
+.container{
+    width: 100vh;
+}
+.text-center{
+    margin-top: 2rem;
+    text-align: center;
+    color: rgb(107, 13, 13);
+}
