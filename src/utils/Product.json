@@ -1,0 +1,36 @@
+{
+    "tittle":"Product Section",
+    "product": [
+        {
+            "img":"productimg/badam.jpeg",
+            "discription":"this is discription",
+            "price":87
+        },
+        {
+            "img":"productimg/dry.jpeg",
+            "discription":"this is discription",
+            "price":87
+        },
+        {
+            "img":"productimg/gulab.avif",
+            "discription":"this is discription",
+            "price":87
+        },
+        {
+            "img":"productimg/kajukatli.jpeg",
+            "discription":"this is discription",
+            "price":87
+        },
+        {
+            "img":"productimg/peda.jpg",
+            "discription":"this is discription",
+            "price":87
+        },
+        {
+            "img":"productimg/soanpapdi.jpeg",
+            "discription":"this is discription",
+            "price":87
+        }
+
+    ]
+}
